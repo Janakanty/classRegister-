@@ -1,0 +1,21 @@
+Mateusz
+Berger
+2 3 1 4 
+Oliwia
+Polak
+5 6 5 6 
+Darek
+Bieryt
+4 3 6 6 
+Konrad
+Saniewski
+2 3 6 4 1 1 1 1 1 1 1 1 
+Wojtek
+Bieleñ
+5 2 4 3 3 
+Adam
+Kowalski
+6 6 6 6 6 6 
+Ma³gorzata
+Pudlak
+3 4 5 6 2 
