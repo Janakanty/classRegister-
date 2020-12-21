@@ -28,6 +28,8 @@ Program choose pupils who are in the lesson
 
 Before exiting the program, press the SAVE button.
 
+![dziennik](https://user-images.githubusercontent.com/62144769/102807127-66a70080-43be-11eb-942b-b4f10a8ea9dd.gif)
+
 
 
 Adam Kowalski [Janakanty] C++ withoutCode
